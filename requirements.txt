@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+notebook
+matplotlib
+seaborn
+plotly
+nltk
+missingno
+mlflow
+dagshub
+xgboost
+lightgbm
